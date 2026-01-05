@@ -1,0 +1,9 @@
+# Python Dependencies for Semi-Autonomous Web Interaction Agent
+
+# Browser automation framework
+selenium>=4.15.0
+
+# Optional: For better browser management
+# webdriver-manager>=4.0.0  # Uncomment to auto-manage ChromeDriver
+
+# Note: Requires Google Chrome and ChromeDriver to be installed separately
