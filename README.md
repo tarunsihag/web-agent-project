@@ -298,7 +298,7 @@ Start → Initialize Components → Open Website → Loop (Observe → Decide �
 ## 📁 Project Structure
 
 ```
-web-agent-project/
+autonomous-web-agent/
 ├── main.py              # Entry point & orchestration
 ├── agent.py             # Browser control & automation
 ├── decision_logic.py    # Decision making intelligence
@@ -322,7 +322,7 @@ web-agent-project/
 
 1. **Clone or download the project**
 ```bash
-cd web-agent-project
+cd autonomous-web-agent
 ```
 
 2. **Install dependencies**
